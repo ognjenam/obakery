@@ -149,7 +149,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`user_ID`, `role_ID`, `e_mail`, `password`, `username`, `register_date`, `last_visit`, `active`) VALUES
-(1, 1, 'obakery@gmail.com', '153c8ec8560a54f03e04e785b5b6f81b', 'itsogii', '2020-02-02 10:51:25', '2020-02-16 20:28:53.000000', 1);
+(1, 1, 'obakery@gmail.com', '', 'itsogii', '2020-02-02 10:51:25', '2020-02-16 20:28:53.000000', 1);
 
 -- --------------------------------------------------------
 
