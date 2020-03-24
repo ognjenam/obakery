@@ -7,6 +7,8 @@ This project is school project about bakery products such as donuts, cupcakes, p
 
 ## Technologies 
 Project is created with: 
-- Bootstrap 4 
 - PHP 7
+- Bootstrap 4
+- HTML 5
+- CSS 3
 
